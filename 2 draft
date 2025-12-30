@@ -5,7 +5,7 @@ import random
 from threading import Timer
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-BOT_TOKEN = '8293676127:AAEhpAyVIAK-VQWe0hW8OunabrWZyAuF_o0'
+BOT_TOKEN = ''
 bot = telebot.TeleBot(BOT_TOKEN)
 
 waste_dict = {
